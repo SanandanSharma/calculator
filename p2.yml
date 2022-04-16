@@ -10,4 +10,4 @@
     - name: pull docker image
       shell: docker pull sanandansharma/calculator-devops
     - name: running container
-      shell: docker run -it -d sanandansharma/calculator-devops/bin/bash
+      shell: docker run -it -d sanandansharma/calculator-devops /bin/bash
