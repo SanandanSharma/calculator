@@ -5,7 +5,7 @@ import java.util.Scanner;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class Calculator {
+public class Calculator{
 
     private static final Logger logger = LogManager.getLogger(Calculator.class);
     public Calculator() {
